@@ -2,7 +2,6 @@
 // @name         Whatsapp Web
 // @namespace    web.whatsapp.com
 // @version      1.7
-// @description  try to take over the world!
 // @match        https://web.whatsapp.com/
 // @author       You
 // @grant        none
