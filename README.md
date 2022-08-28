@@ -8,3 +8,8 @@ These are the default WhatsApp Web keyboard shortcuts for Windows:
   1. Press `Alt+UpArrow` when a chat window is open to set the focus to last sent chat bubble in the open chat window
   2. Use `UpArrow` and `DownArrow` keys to navigate through the chat bubbles
   3. `Alt+Enter` to select the currently highlighted one for quote-replying.
+  
+  ## Install Instructions
+  1. Download the TamperMonkey addon for your browser.
+  2. Open `script.js` as raw, copy-paste it into a new script in tampermonkey, save it.
+  3. Reload WhatsApp Web to apply it, if it was already open.
