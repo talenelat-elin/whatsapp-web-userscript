@@ -45,7 +45,8 @@ document.addEventListener("keydown", function(zEvent) {
   if (zEvent.altKey && zEvent.key === "ArrowUp") { // case sensitive
     // DO YOUR STUFF HERE
     // _3K4-L is the classname for the chats container, and _1-FMR is the class name for the chat bubbles themselves.
-    document.querySelector("._3K4-L ._1-FMR:last-of-type").focus();
+    document.querySelector("._33LGR > div > div:last-of-type > ._1-FMR").focus()
+
   }
 
 
