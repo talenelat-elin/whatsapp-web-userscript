@@ -46,7 +46,7 @@ document.addEventListener("keydown", function(zEvent) {
   if (zEvent.altKey && zEvent.key === "ArrowUp") { // case sensitive
     // DO YOUR STUFF HERE
     // _5kRIK is the classname for the chats container, and _1-FMR is the class name for the chat bubbles themselves.
-    document.querySelector("._5kRIK > div > div:last-of-type > ._1-FMR").focus()
+    document.querySelector("._5kRIK > .n5hs2j7m > div:last-of-type > div > ._1-FMR").focus()
   }
 
 
